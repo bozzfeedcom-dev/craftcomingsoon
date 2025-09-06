@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     title: 'craft.video - Revolutionary AI Video Creation',
     description: 'Transform your creative vision with cutting-edge AI video creation tools. Join our waitlist.',
     images: ['/twitter-image.jpg'],
-    creator: '@craftvideo',
+    creator: '@craftvideo_ai',
   },
   robots: {
     index: true,
@@ -107,9 +107,10 @@ export default function RootLayout({
               "foundingDate": "2024",
               "industry": "Technology",
               "sameAs": [
-                "https://twitter.com/craftvideo",
+                "https://x.com/craftvideo_ai",
                 "https://linkedin.com/company/craftvideo",
-                "https://github.com/craftvideo"
+                "https://github.com/craftvideo",
+                "https://discord.gg/craftvideo"
               ]
             })
           }}
